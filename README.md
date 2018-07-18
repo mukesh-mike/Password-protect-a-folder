@@ -1,4 +1,4 @@
-# Password_protected_folder
+# Password protect a folder
 Password protect a file/folder on all running versions of windows.
 
 SetUp:
