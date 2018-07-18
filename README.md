@@ -1,5 +1,6 @@
 # Password_protected_folder
 Password protect a file/folder on all running versions of windows.
+
 SetUp:
 1. Download FolderLock.bat file to a folder where the files are present that you need to protect.
 2. Right click on FolderLock.bat file and open it with your favourite text editor.
