@@ -1,2 +1,5 @@
 # Password_protected_folder
-Password protect a folder in all versions of Windows
+Password protect a folder on all running versions of windows.
+Steps:
+1. Download 
+
